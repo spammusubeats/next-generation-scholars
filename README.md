@@ -13,8 +13,16 @@ Tomera Ten
 
 Email: ngs@spammusubeats.com
 
-### Class resource directory & Assignments
+### Class resource directory & assignments
 [NGS Google Drive](https://drive.google.com/drive/folders/15ObKLhDUkw9UCv2BGc5bZcAl0b3Ct3-u)
 
+---
+
+## Week 1 - Computers, Internet, and Websites
+*Intro to HyperText Markup Language (HTML) - Structuring the Web*
+
+[Student Assessment](https://docs.google.com/forms/d/1qc5107Wr9ZhAgWKrZcShAQxlKM9BcN1ZRjBWG2WUU7w/edit)
+
+[Week 1 Slides](https://docs.google.com/presentation/d/1UHKg48p1UHzxNMukqlhGHyCPohe53uWkWkUR-kNsqQM/edit#slide=id.g35f391192_00)
 
 
