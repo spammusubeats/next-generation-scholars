@@ -16,5 +16,7 @@ Email: ngs@spammusubeats.com
 ### Class resource directory & Assignments
 [NGS Google Drive](https://drive.google.com/drive/folders/15ObKLhDUkw9UCv2BGc5bZcAl0b3Ct3-u)
 
+[Assessment](https://docs.google.com/a/spammusubeats.com/forms/d/1qc5107Wr9ZhAgWKrZcShAQxlKM9BcN1ZRjBWG2WUU7w/edit?usp=drive_web)
+
 
 
