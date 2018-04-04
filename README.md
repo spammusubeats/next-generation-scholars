@@ -1,5 +1,5 @@
 # next-generation-scholars
-## Intro to Web
+## Intro to Web - Week 2
 In this course, we will go over the basics of how to build a basic website written in Hyper Text Markup Language (HTML), style your HTML with Cascading Style Sheets (CSS), and add some functionality in Javascript. 
 We've broken down the class in two sections; building a responsive website and building a website for your parent(s) or someone you know.
 For the last week, we will spend time on understanding how to publish your site on the cloud with Heroku.
@@ -18,11 +18,8 @@ Email: ngs@spammusubeats.com
 
 ---
 
-## Week 1 - Computers, Internet, and Websites
-*Intro to HyperText Markup Language (HTML) - Structuring the Web*
+## Week 2 - HTML Continued & Getting Started with CSS
 
-[Student Assessment](https://docs.google.com/forms/d/1qc5107Wr9ZhAgWKrZcShAQxlKM9BcN1ZRjBWG2WUU7w/edit)
-
-[Week 1 Slides](https://docs.google.com/presentation/d/1UHKg48p1UHzxNMukqlhGHyCPohe53uWkWkUR-kNsqQM/edit#slide=id.g35f391192_00)
+[Week 2 Slides](https://docs.google.com/presentation/d/1tjb8sJGQvVx1btWuWCzl9TEaS_gbTtk8WmRFEppx_0o/edit?usp=sharing)
 
 
