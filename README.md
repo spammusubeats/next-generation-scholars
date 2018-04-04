@@ -14,12 +14,14 @@ Tomera Ten
 Email: ngs@spammusubeats.com
 
 ### Class resource directory & assignments
-[NGS Google Drive](https://drive.google.com/drive/folders/15ObKLhDUkw9UCv2BGc5bZcAl0b3Ct3-u)
+[NGS Google Drive - Week 2](https://drive.google.com/drive/folders/1dZeHNXjDoJzj5BnhTWH8olYu0vX-0YTU)
 
 ---
 
 ## Week 2 - HTML Continued & Getting Started with CSS
 
 [Week 2 Slides](https://docs.google.com/presentation/d/1tjb8sJGQvVx1btWuWCzl9TEaS_gbTtk8WmRFEppx_0o/edit?usp=sharing)
+
+[Week 2 Assessment](https://docs.google.com/forms/d/1plUZehQbfRdFV1Iioq4qALLnFER038X0mm1zSwSomuE/edit?usp=sharing)
 
 
