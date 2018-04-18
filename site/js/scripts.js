@@ -1,5 +1,5 @@
 (function(){
 
-  document.selectElementById("main");
+  document.getElementById("main");
   
 })()
