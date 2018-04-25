@@ -1,0 +1,71 @@
+/* Global Styles */
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+}
+
+.row {
+	width: 100%;
+	height: 100%;
+}
+
+.row::after {
+	content: "";
+	clear: both;
+	display: table;
+}
+
+.float-left {
+	float: left;
+}
+
+.float-right {
+	float: right;
+}
+
+.column {
+	float: left;
+	width: 33%;
+	text-align: center;
+}
+
+/* Navigation Styles */
+
+#navigation {}
+
+/* Hero Styles */
+
+#hero {
+	padding: 300px 0;
+	background-image: url("img/hero-image.jpg");
+	background-size: : "cover";
+	background-position: center;
+	font-size: 60px;
+	color: #FFF;
+	text-align: center;
+
+}
+
+#navigation #links li {
+	display: inline-block;
+}
+
+/* Main Content Styles */
+
+#main-content {}
+
+/* Footer Styles */
+
+#footer {
+	text-align: center;
+}
+
+@media only screen and (max-width: 640px) {
+	.column {
+		width: 100%;
+	}
+}
