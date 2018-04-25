@@ -18,10 +18,9 @@ Email: ngs@spammusubeats.com
 
 ---
 
-## Week 3 - HTML Review - Cascading Style Sheet Deep Dive (CSS)
+## Week 4 - CSS Box Model & Layout Deep Dive
 
-[Week 3 Slides](https://docs.google.com/presentation/d/1H0BmR7btaRBo_nsbBF9k5793wg6X_lYY29Gl2vD9o2g/edit?usp=sharing)
+[Week 4 Slides](https://docs.google.com/presentation/d/1WqGx23-Zw_Tnyz8yeBX_1XV1iYes9pBpWwb7ToCDnH8/edit?usp=sharing)
 
-[Week 3 Assessment]()
 
 
