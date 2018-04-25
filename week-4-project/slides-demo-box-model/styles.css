@@ -2,6 +2,7 @@
 
 * {
 	box-sizing: border-box;
+	font-family: 'Roboto', sans-serif;
 }
 
 body {
@@ -37,6 +38,33 @@ body {
 
 #navigation {}
 
+.logo {
+	width: 80px;
+}
+
+#navigation #links li {
+	display: inline-block;
+	padding-top: 20px;
+}
+
+#navigation #links li a {
+	text-decoration: none;
+	letter-spacing: 3.2px;
+	font-weight: 300;
+	color: #000;
+	padding: 20px;
+}
+
+#navigation #links li a:hover {
+	font-weight: 700;
+	color: #333;
+}
+
+#navigation #links li a.active {
+	font-weight: 700;
+	color: #333;
+}
+
 /* Hero Styles */
 
 #hero {
@@ -48,10 +76,6 @@ body {
 	color: #FFF;
 	text-align: center;
 
-}
-
-#navigation #links li {
-	display: inline-block;
 }
 
 /* Main Content Styles */
