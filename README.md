@@ -1,5 +1,5 @@
 # next-generation-scholars
-## Intro to Web - Week 3
+## Intro to Web - Week 4
 In this course, we will go over the basics of how to build a basic website written in Hyper Text Markup Language (HTML), style your HTML with Cascading Style Sheets (CSS), and add some functionality in Javascript. 
 We've broken down the class in two sections; building a responsive website and building a website for your parent(s) or someone you know.
 For the last week, we will spend time on understanding how to publish your site on the cloud with Heroku.
@@ -14,7 +14,7 @@ Tomera Ten
 Email: ngs@spammusubeats.com
 
 ### Class resource directory & assignments
-[NGS Google Drive - Week 3](https://drive.google.com/open?id=1Djmn4RAahs0-mnNW3FxyVtpkgZ_ZJASl)
+[NGS Google Drive - Week 4](https://drive.google.com/drive/folders/1Ss-w7wjx8-WuNNF2FcPBAIJLXPJ6G17d)
 
 ---
 
