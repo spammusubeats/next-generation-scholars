@@ -20,7 +20,7 @@ Email: ngs@spammusubeats.com
 
 ## Week 5 - Layout Deep Dive - Modular
 
-[Week 5 Slides](https://docs.google.com/presentation/d/1uexq88Bwq3qt6QMFAbrHqSGr3Y_lKU_blcBHim9mvhQ/edit?usp=sharing)
+[Week 5 Slides](https://docs.google.com/presentation/d/1LKc4Obq4ap8OUkJPrBYHW-ivkfoa_3GVLaRDsUYKZ3w/edit?usp=sharing)
 
 
 
