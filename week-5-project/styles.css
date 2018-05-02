@@ -22,7 +22,46 @@
 
  */
 
- #container {
- 	
+ #container::after {
+ 	content: "";
+ 	clear: both;
+ 	display: table;
  }
+
+#navigation a {
+ 	display: inline-block;
+ }
+
+
+ .logo {
+ 	float: left;
+ }
+
+
+ .links {
+ 	float: right;
+ }
+
+ /* 
+ Navigation link styles
+ */
+
+ .links a {
+ 	font-size: 18px;
+    text-decoration: none;
+    padding: 10px;
+    color: black;
+    letter-spacing: 2px;
+ }
+
+ .links a:hover {
+ 	color: #c2369f;
+ 	border: solid 2px #c2369f;
+ }
+
+ a.selectedLink {
+ 	color: #c2369f;
+ 	border: solid 2px #c2369f;
+ }
+
 

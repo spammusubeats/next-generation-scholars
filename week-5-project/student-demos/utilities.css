@@ -37,6 +37,8 @@
 	text-align: center;
 }
 
+/* Positional class styles to attach in html class attributes */
+
 .addBorder {
 	border: solid 2px white;
 }

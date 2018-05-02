@@ -7,39 +7,52 @@
 	Include the css utility file 
 	Open up utilities.css to reference the class and id selectors to add as attributes
 	-->
-
 	<link rel="stylesheet" href="utilities.css" />
+	
 </head>
 <body>
 
-	<!-- This is the div element with a class "container" which we contain 3 div elements inside -->
+	<!-- 
+	This is the div element with an id "container" which we contains 3 div elements inside.
+
+	Each div has either an attribute of id="" or class="" or a combination of both.
+
+	By decalaring unique attributes to an element, we can target groups of tags and style them accordingly.
+
+	Class attributes can take in more than one unique name, but separate them by a space if you want to combine additional styles on a particular element
+	-->
 
 	<div id="container" class="centerContent">
 
 
 		<!-- 
+		Let's open up the utilities.css file and explore the current style properties targeting the particular id, class, or element tag.
+
 		One by one, add utility class names to grid elements to apply the styles
-		First, adding a border with addBorder class
+
+		First, add a border with addBorder class to the <div class="grid"> elements
+
 		Second, add some spacing around your paragraph with addMargin class
+
 		Lastly, float each grid element side by side with the class, floatLeft
 		
 		-->
 		
-		<div class="grid">
+		<div class="grid addBorder addMargin floatLeft">
 			<h1>Paragraph 1</h1>
 			<p>
 				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non condimentum urna, at tempor erat. Maecenas vulputate ipsum non nunc ullamcorper condimentum.
 			</p>
 		</div>
 
-		<div class="grid">
+		<div class="grid addBorder addMargin floatLeft">
 			<h1>Paragraph 2</h1>
 			<p>
 				Aenean vel nunc gravida sem maximus hendrerit. Quisque id consequat sem. Maecenas non leo vel lacus lacinia lacinia eget vel orci.
 			</p>
 		</div>
 
-		<div class="grid">
+		<div class="grid addBorder addMargin floatLeft">
 			<h1>Paragraph 3</h1>
 			<p>
 				Phasellus porta vitae ex nec sodales. Phasellus pellentesque velit nibh. Nunc blandit pellentesque nunc. In porta rutrum porttitor.
