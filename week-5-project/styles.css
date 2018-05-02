@@ -1,0 +1,28 @@
+/*
+ Asterisk means apply css properties to everything on the site
+*/
+
+
+/* Here we target all elements to use the same font */
+
+* {
+	box-sizing: border-box;
+	font-family: 'Roboto', sans-serif;
+}
+
+/* Lets add some style properties to the ID selector "container". 
+
+- Any "class" or "id" attribute on an element is targeted by either a ".[class-name]" or "#[id-name]"
+
+- In earlier lectures, we only targeted element names such as "p" or "h1" tags, but by adding an attribute to the element, you control the exact element you want to style, rather then styling all elements.
+
+- By adding unique identifiers to an element (<p class="uniqueParagraph"></p> or <h1 id="uniqueH1></h1>", css will only apply to the selector you want, leaving you with the behavior you desired.
+
+- Now below, lets target the <div> element with an id attribute of "container", and add style properties
+
+ */
+
+ #container {
+ 	
+ }
+
