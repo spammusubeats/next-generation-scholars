@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Add an external CSS file</title>
+
+	<!-- Add <link> tag with an attribue rel="stylesheet" and an href="relative-location-to-file-name" -->
+
+
+	<style>
+		p {
+			font-family: sans-serif;
+			font-size: 26px;
+		}
+	</style>
+
+</head>
+<body>
+	<p>Nested between the head tag, add a link element to include to our html page</p>
+	<p>When we add any tags, including the link tag in between the head tags, browsers will look there first before displaying the site to your screen since you declared that your site depends on that particular file/resource before fully rendering the page for the clients</p>
+
+	<hr />
+
+	<p>The best way to understand this method/ideology of preloading dependencies is like creating a word document. When you save a text file as .docx file, as soon as you open Microsoft Word or Macintosh Pages file, the extension of the file is considered a preloading declaration that tells a particular program what to load first before display your doc. Try to open a .docx file in a movie program; opening a file that is pre-declared as a certain type, the program will not try to open, due to the limitations of the program. </p>
+	<p>But if we open the file in the proper word processing program, the program will understand what type of file it is, and how to handle it.</p>
+
+	<p>So with HTML, by adding appropriate tags in the head section, we are telling the browser to load these specific tags (files or meta data) first before rendering the page to the browser screen; The browsers will know what to do with these tags before rendering as do word processing programs with the corrent file extension .docx </p>
+</body>
+</html>
