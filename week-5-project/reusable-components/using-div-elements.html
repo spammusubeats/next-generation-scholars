@@ -1,0 +1,43 @@
+<!--
+
+- Normally, we structure our site with traditional block elements like <p> or <h1> tags.
+- But with <div> elements, we can group or contain particular sections of our site to organize each section.
+- Since <div> elements are arbitrary, they can nest (contain) anything in between to make your code well structured.
+- For example, let's create a <div> element and contain some elements to clearly identify the section it's in
+
+-->
+
+<!DOCTYPE html>
+<html>
+	<head>
+		
+		<style>
+
+	/* We target the ID selector with all <p> children to aquire the color properties */
+	
+	#container p {
+		color: green;
+	}
+
+	/* 
+	- Even though we styled the <p> element, notice how it only affected the <p> nested in the <div> element
+	- This is why we want to structure our site in this fashion, so we can target specific elements without apply it to all elements using the same tag
+	*/
+
+		</style>
+
+	</head>
+
+	<body>
+		
+		<div id="container">
+	
+			<p>This is a tag that we want to style within the div conainer with the ID attibute named "container"</p>
+
+		</div>
+
+		<p>This is another tag that is not contained in the div, so since we add style properties to the nested &lt;p&gt;, it will only affect that element</p>
+
+	</body>
+</html>
+
