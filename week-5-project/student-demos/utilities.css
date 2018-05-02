@@ -1,0 +1,50 @@
+/*
+ This stylesheet contains utility classes and ID's to add in element attributes for rapid prototyping
+*/
+
+* {
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+
+/* Container ID to float elements inside and clear */
+
+#container::after {
+	content: "";
+	clear: both;
+	display: table;
+}
+
+#container {
+	padding: 10px;
+	margin: 20px;
+	background-color: lightgrey;
+	border: solid 5px black;
+}
+
+/* Grid style properties */
+
+.grid {
+	width: 250px;
+	padding: 10px;
+}
+
+.grid h1 {
+	font-size: 30px;
+}
+
+.centerContent {
+	text-align: center;
+}
+
+.addBorder {
+	border: solid 2px white;
+}
+
+.addMargin {
+	margin: 10px 10px;
+}
+
+.floatLeft {
+	float: left;
+}
