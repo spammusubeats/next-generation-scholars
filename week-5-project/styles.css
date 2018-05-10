@@ -34,6 +34,38 @@
 	display: table;
 }
 
+@media only screen and (max-width: 920px){
+
+		a.logo {
+		    width: 100%;
+		    float: none;
+		    text-align: center;
+		}
+
+		.links {
+		    float: right;
+		    width: 100%;
+		    text-align: center;
+		}
+
+		.links a {
+		    font-size: 18px;
+		    text-decoration: none;
+		    padding: 10px;
+		    color: black;
+		    display: block !important;
+		    letter-spacing: 2px;
+		}
+		
+		.grid-3 {
+			width: 100% !important;
+		}
+
+		.grid-content {
+			padding: 0 !important;
+		}
+	}
+
 
 
 
