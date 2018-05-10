@@ -8,6 +8,120 @@
 
 	<style>
 
+	#navigation a {
+		display: inline-block;
+	}
+
+
+	.logo {
+		/*
+		Logo should be 468px by 60px
+		*/
+		float: left;
+	}
+
+
+	.links {
+		float: right;
+	}
+
+	/* 
+	Navigation link styles
+	*/
+
+	.links a {
+		font-size: 18px;
+		text-decoration: none;
+		padding: 10px;
+		color: black;
+		letter-spacing: 2px;
+	}
+
+	.links a:hover {
+		color: #c2369f;
+		border: solid 2px #c2369f;
+	}
+
+	a.selectedLink {
+		color: #c2369f;
+		border: solid 2px #c2369f;
+	}
+
+	.banner {
+		/*
+		Banner image should be 1920px by 1200px max
+		*/
+	 	width: 100%;
+	 	padding: 140px 0;
+	 	clear: left;
+	 	background-image: url('img/banner.jpg');
+	 	background-position: center;
+	 	background-size: cover;
+
+ 	}
+
+	.banner h1 {
+	 	margin: auto;
+	  padding: 50px;
+	  width: 500px;
+	  text-align: center;
+	  font-weight: 100;
+	  color: white;
+	  letter-spacing: 2px;
+	  border: solid 5px;
+	}
+
+	.grid-container{
+		max-width: 1600px;
+		margin: auto;
+	}
+
+	.grid-3 {
+		width: 33%;
+		float: left;
+		padding: 50px;
+	}
+
+	.grid-image {
+		display: block;
+		border: solid 5px dimgrey;
+		max-width: 300px;
+		margin: auto;
+	}
+
+	.grid-content {
+		margin: auto;
+    padding: 40px;
+		text-align: center;
+    line-height: 24px;
+    font-size: 20px;
+	}
+
+	.grid-link {
+		display: block;
+		text-decoration: none;
+	}
+
+	.grid-link button {
+		display: block;
+		border-radius: 1px;
+		margin: auto;
+		padding: 20px 40px;
+		border: solid 4px;
+	}
+
+	#footer {
+		text-align: center;
+		background-color: #333333;
+		padding: 50px;
+	}
+
+	#footer a, #footer a:visited, #footer a:active {
+		color: white;
+		text-decoration: none;
+		display: inline-block;
+	}
+
 	</style>
 
 	</head>
@@ -16,6 +130,88 @@
 		<div id="container">
 
 			<!-- Insert reusable components here -->
+
+			<!-- Navigation Section -->
+			<div id="navigation" class="clear-floats">
+				<a href="index.html" class="logo"><img src="img/logo.jpg" /></a>
+
+				<div class="links">
+					<a href="index.html" class="selectedLink">HOME</a>
+					<a href="about.html">ABOUT</a>
+					<a href="gallery.html">GALLERY</a>
+					<a href="contact.html">CONTACT</a>	
+				</div>
+
+			</div>
+			<!-- Navigation Section End -->
+
+			<!-- Site Banner Section -->
+			<div class="banner">
+				<h1>TOGETHER, WE CAN DESIGN AND DEVELOP THE DOPEST SITES HERE AT NGS.</h1>
+			</div>
+			<!-- Site Baner Section End -->
+
+			<!-- Grid Container Section -->
+			<div class="grid-container clear-floats">
+				
+				<div class="grid-3">
+
+					<img class="grid-image" src="img/grid-image.jpg" />
+					<p class="grid-content">
+						This is the grid content area where we will add some content, and possibly a link somewhere.
+					</p>
+
+					<a href="" class="grid-link">
+						<button>
+							LEARN MORE
+						</button>
+					</a>
+
+				</div>
+
+				<div class="grid-3">
+
+					<img class="grid-image" src="img/grid-image.jpg" />
+					<p class="grid-content">
+						This is the grid content area where we will add some content, and possibly a link somewhere.
+					</p>
+
+					<a href="" class="grid-link">
+						<button>
+							LEARN MORE
+						</button>
+					</a>
+
+				</div>
+
+				<div class="grid-3">
+					
+					<img class="grid-image" src="img/grid-image.jpg" />
+					<p class="grid-content">
+						This is the grid content area where we will add some content, and possibly a link somewhere.
+					</p>
+
+					<a href="" class="grid-link">
+						<button>
+							LEARN MORE
+						</button>
+					</a>
+
+				</div>
+
+			</div>
+			<!-- Grid Container Section End -->
+
+			<!-- Footer Section -->
+			<div id="footer">
+
+				<a href="index.html">HOME</a>
+				<a href="about.html">ABOUT</a>
+				<a href="gallery.html">GALLERY</a>
+				<a href="contact.html">CONTACT</a>
+
+			</div>
+			<!-- Footer Section End -->
 
 		</div>
 	</body>
