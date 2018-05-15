@@ -1,5 +1,5 @@
 NODE_MODULES
-.idea
+.idea/*
 DS_Store
 week-4-project
 week-5-project
