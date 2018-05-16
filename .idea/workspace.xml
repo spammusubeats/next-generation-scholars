@@ -2,8 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b10c8fe8-b415-47fa-be60-671a8ed44ff6" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Next Generation Scholars Final Project.sketch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/next-generation-scholars-week-5.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/boilerplate.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/js/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/pages/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/pages/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/pages/gallery.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-4-project/site-mock/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-4-project/slides-demo-box-model/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-4-project/slides-demo-box-model/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-4-project/slides-demo-box-model/gallery.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-4-project/slides-demo-box-model/img/hero-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-4-project/slides-demo-box-model/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-4-project/slides-demo-box-model/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-4-project/slides-demo-box-model/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-4-project/slides-demo-exercise/box-model.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-4-project/slides-demo-lists/navigation-links-demo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-4-project/slides-demo-lists/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-4-project/slides-demo-lists/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-5-project/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-5-project/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-5-project/gallery.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-5-project/img/banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-5-project/img/grid-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-5-project/img/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-5-project/img/nori.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-5-project/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-5-project/inline-vs-block.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-5-project/reusable-components/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-5-project/reusable-components/form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-5-project/reusable-components/gallery-grid.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-5-project/reusable-components/grid.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-5-project/reusable-components/navigation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-5-project/reusable-components/site-banner.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-5-project/reusable-components/using-div-elements.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-5-project/student-demos/external-css.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-5-project/student-demos/floats.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-5-project/student-demos/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-5-project/student-demos/utilities.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-5-project/styles.css" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -106,18 +147,17 @@
       <workItem from="1526419955573" duration="58000" />
       <workItem from="1526420024952" duration="130000" />
       <workItem from="1526420368470" duration="1158000" />
-      <workItem from="1526503655545" duration="230000" />
+      <workItem from="1526503655545" duration="476000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1576000" />
+    <option name="totallyTimeSpent" value="1822000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="1178" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1512247" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1512247" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50106496" side_tool="true" visible="true" weight="0.3293247" />
@@ -125,7 +165,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Mongo Explorer" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49893504" visible="true" weight="0.3293247" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49893504" visible="true" weight="0.3293247" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
