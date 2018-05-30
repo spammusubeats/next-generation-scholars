@@ -7,10 +7,10 @@
 
 * {
 	box-sizing: border-box;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Raleway', sans-serif;
 }
 
-/* Lets add some style properties to the ID selector "container". 
+/* Lets add some style properties to the ID selector "container".
 
 - Any "class" or "id" attribute on an element is targeted by either a ".[class-name]" or "#[id-name]"
 
@@ -36,35 +36,35 @@
 
 @media only screen and (max-width: 920px){
 
-		a.logo {
-		    width: 100%;
-		    float: none;
-		    text-align: center;
-		}
-
-		.links {
-		    float: right;
-		    width: 100%;
-		    text-align: center;
-		}
-
-		.links a {
-		    font-size: 18px;
-		    text-decoration: none;
-		    padding: 10px;
-		    color: black;
-		    display: block !important;
-		    letter-spacing: 2px;
-		}
-		
-		.grid-3 {
-			width: 100% !important;
-		}
-
-		.grid-content {
-			padding: 0 !important;
-		}
+	a.logo {
+		width: 100%;
+		float: none;
+		text-align: center;
 	}
+
+	.links {
+		float: right;
+		width: 100%;
+		text-align: center;
+	}
+
+	.links a {
+		font-size: 18px;
+		text-decoration: none;
+		padding: 10px;
+		color: black;
+		display: block !important;
+		letter-spacing: 2px;
+	}
+
+	.grid-3 {
+		width: 100% !important;
+	}
+
+	.grid-content {
+		padding: 0 !important;
+	}
+}
 
 
 
