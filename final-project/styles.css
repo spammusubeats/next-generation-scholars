@@ -22,6 +22,10 @@
 
  */
 
+body {
+    margin: 0;
+}
+
 #container::after {
 	content: "";
 	clear: both;
