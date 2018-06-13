@@ -20,6 +20,8 @@ Email: ngs@spammusubeats.com
 
 [Final Project Video Cast](https://www.youtube.com/playlist?list=PLzApkk2LDFL5JN6fq-wAAHbeAXZiOfURl)
 
+[Website Requirements](https://docs.google.com/document/d/1lvn8LPJPvHmFQdHO6wOuVgtNWjBTRC2hy1fZDx8ng6U/edit?usp=sharing)
+
 [Build a Website Outline](https://drive.google.com/open?id=1JoCc9wAIadTjeAzrGl1iaDurbY0wIou2GGfSCZMkGN0)
 
 [HTML Reference Sheet](https://drive.google.com/open?id=1wAK7F28oqnz6SRBMwYFansZn15Jz6RFBmXQryb6TqlY)
